@@ -1,2 +1,3 @@
 language: c
-script: gcc -c main.c
+script: gcc -o main main.c
+
